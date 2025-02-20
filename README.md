@@ -23,6 +23,7 @@ This is my TextUtils web application built using HTML, CSS, Bootstrap, Javascrip
 7) Run the command "npm i react-router" to install React-Router for seamless navigation without page reloads.</br>
 8) Use the command "npm start" to launch the web application. It will open automatically in your browser.</br>
 
+# Preview
 ![1](https://github.com/user-attachments/assets/dbe0e247-c5f9-4657-993a-a5ce0fc5d72d)
 ![2](https://github.com/user-attachments/assets/a60e563e-17fd-40a1-a993-abb6e480578d)
 ![3](https://github.com/user-attachments/assets/d5e7c05c-8221-493b-b8f4-06d216312930)
